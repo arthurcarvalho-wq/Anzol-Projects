@@ -9,3 +9,5 @@ O Sistema de Identificação de Visitantes é uma plataforma desenvolvida para q
  Registrar Visitante: Cadastro em tempo real de novos visitantes com coleta de dados básicos e motivo da visita.
  Histórico de Visitas: Consulta e relatório de todas as pessoas que já acessaram a unidade escolar.
  Agendamento: Marcação prévia de visitas, reuniões ou atendimentos com pais e fornecedores.
+
+<img width="1636" height="563" alt="image" src="https://github.com/user-attachments/assets/525a8fc1-f2c7-4ba5-bf22-f6255fbb269a" />
