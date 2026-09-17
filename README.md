@@ -22,3 +22,6 @@ Agendamento: Interface para marcar e agendar futuras visitas.
 Histórico de Presença: Registro detalhado de entradas e saídas anteriores.
 
 <img width="1636" height="563" alt="image" src="https://github.com/user-attachments/assets/525a8fc1-f2c7-4ba5-bf22-f6255fbb269a" />
+
+17/09/2026
+Nós começamos estilizar o CSS do HTML, mas não conseguimos terminar, na próxima aula vamos prosseguir estilizando o CSS e pretendemos terminar ou pelo menos terminar a grande maioria
