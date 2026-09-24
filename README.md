@@ -14,7 +14,7 @@ Dia 10/09/26
 Atualmente, estruturamos a base da interface desenvolvendo os arquivos HTML principais. O próximo passo será a estilização visual do sistema.
 
  Estrutura das Paginas Concluido
-Página Inicial:Tela de boas-vindas e portal de entrada do sistema.
+*Página Inicial:Tela de boas-vindas e portal de entrada do sistema.
 Informação: Todos os Serviços que o sistema tem de disponivel
 Informações dos Visitantes: Exibição do perfil ou dados detalhados de um visitante.
 Registrar Visitantes: Formulário para o cadastro de novos usuários no sistema.
