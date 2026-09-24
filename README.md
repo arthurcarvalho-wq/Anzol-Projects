@@ -25,6 +25,7 @@ Histórico de Presença: Registro detalhado de entradas e saídas anteriores.
 
 17/09/2026
 Nós começamos estilizar o CSS do HTML, mas não conseguimos terminar, na próxima aula vamos prosseguir estilizando o CSS e pretendemos terminar ou pelo menos terminar a grande maioria
+
 24/09/26 
 Hoje Continuamos o Design das nossas paginas, terminamos o Design da Pagina de Agendamento, Informações e a Pagina Inicial 
 <img width="868" height="632" alt="Captura de tela 2026-09-24 095121" src="https://github.com/user-attachments/assets/19aefdbd-51f5-4cfb-a464-cb40ef73c925" />
