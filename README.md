@@ -23,7 +23,7 @@ Histórico de Presença: Registro detalhado de entradas e saídas anteriores.
 
 <img width="1636" height="563" alt="image" src="https://github.com/user-attachments/assets/525a8fc1-f2c7-4ba5-bf22-f6255fbb269a" />
 
-17/09/2026
+17/09/26
 Nós começamos estilizar o CSS do HTML, mas não conseguimos terminar, na próxima aula vamos prosseguir estilizando o CSS e pretendemos terminar ou pelo menos terminar a grande maioria
 
 24/09/26 
@@ -32,3 +32,4 @@ Hoje Continuamos o Design das nossas paginas, terminamos o Design da Pagina de A
 <img width="814" height="333" alt="image" src="https://github.com/user-attachments/assets/8cf0033b-368d-4f8e-8f5a-5cb0b9ece7a6" />
 <img width="651" height="632" alt="image" src="https://github.com/user-attachments/assets/11141f01-36f8-4658-a92c-c72697bf8869" />
 
+01/10/26 
