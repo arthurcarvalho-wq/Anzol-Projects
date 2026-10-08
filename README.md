@@ -31,4 +31,6 @@ Hoje Continuamos o Design das nossas paginas, terminamos o Design da Pagina de A
 <img width="868" height="632" alt="Captura de tela 2026-09-24 095121" src="https://github.com/user-attachments/assets/19aefdbd-51f5-4cfb-a464-cb40ef73c925" />
 <img width="814" height="333" alt="image" src="https://github.com/user-attachments/assets/8cf0033b-368d-4f8e-8f5a-5cb0b9ece7a6" />
 <img width="651" height="632" alt="image" src="https://github.com/user-attachments/assets/11141f01-36f8-4658-a92c-c72697bf8869" />
-
+08/10/26
+hoje nós discutimos sobre a restrição de horário e de controle de regiões dos visitantes, tentamos colocar em prática, mas devido a falta de tempo não conseguimos.
+Próxima aula devemos incrementar isso no Projeto e Página Anzol.
