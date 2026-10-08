@@ -1,7 +1,7 @@
 Nosso tema é Como criar um sistema de identificação de visitantes?.
 integrantes : Arthur Santos de Carvalho, Izaque Domingos de Souza, Alex Martinez Maldonado.
 Objetivo : aumentar a segurança da comunidade escolar.
-Motivaçao : a Principal motivação para a integração a esse sistema no brasil vem porcausa de  Ataques recentes em escolas (como Suzano em 2019 e Thomazia Montoro em 2023) pressionaram os governos a agir.
+Motivaçao : a Principal motivação para a integração a esse sistema no brasil vem por causa de  Ataques recentes em escolas (como Suzano em 2019 e Thomazia Montoro em 2023) pressionaram os governos a agir.
 
 O Sistema de Identificação de Visitantes é uma plataforma desenvolvida para que a secretaria escolar gerencie o fluxo de pessoas na instituição. O acesso é feito via integração com a Diretoria Escolar por meio de login em um portal unificado.
  FUNCIONALIDADES PRINCIPAIS
@@ -32,4 +32,3 @@ Hoje Continuamos o Design das nossas paginas, terminamos o Design da Pagina de A
 <img width="814" height="333" alt="image" src="https://github.com/user-attachments/assets/8cf0033b-368d-4f8e-8f5a-5cb0b9ece7a6" />
 <img width="651" height="632" alt="image" src="https://github.com/user-attachments/assets/11141f01-36f8-4658-a92c-c72697bf8869" />
 
-01/10/26 
