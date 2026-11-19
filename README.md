@@ -43,7 +43,7 @@ Hoje tivemos nossa reunião diária, não mudamos muita coisa apenas a nossa pá
 
 
 19/11/26
-Hoje discutimos sobre mudar o design da Página Inicial, estava muito raso e sem conteúdo, além das cores não estarem do nosso agrado. Futuramente planejamos mudar o desiign e implementar mais coisas novas em todas as outras Páginas do nosso Site.
+Hoje discutimos sobre mudar o design da Página Inicial, estava muito raso e sem conteúdo, além das cores não estarem do nosso agrado. Futuramente planejamos mudar o design e implementar mais coisas novas em todas as outras Páginas do nosso Site.
 <img width="1913" height="940" alt="image" src="https://github.com/user-attachments/assets/1fb886d3-c2a9-4c53-8f47-9c53c25ea917" />
 
 
