@@ -36,7 +36,18 @@ Hoje Continuamos o Design das nossas paginas, terminamos o Design da Pagina de A
 hoje nós discutimos sobre a restrição de horário e de controle de regiões dos visitantes, tentamos colocar em prática, mas devido a falta de tempo não conseguimos.
 Próxima aula devemos incrementar isso no Projeto e Página Anzol.
 
+19/11/26
+
+Hoje discutimos sobre mudar o design da Página Inicial, estava muito raso e sem conteúdo, além das cores não estarem do nosso agrado. Futuramente planejamos mudar o desiign e implementar mais coisas novas.
+
 22/10/26
-hoje tivemos nossa reunião diária, não mudamos muita coisa apenas a nossa página de informaçoes, colocamos um novo metodo no html "iframe"
+Hoje tivemos nossa reunião diária, não mudamos muita coisa apenas a nossa página de informaçoes, colocamos um novo metodo no html "iframe"
+
+
+
+19/11/26
+Hoje discutimos sobre mudar o design da Página Inicial, estava muito raso e sem conteúdo, além das cores não estarem do nosso agrado. Futuramente planejamos mudar o desiign e implementar mais coisas novas em todas as outras Páginas do nosso Site.
+<img width="1913" height="940" alt="image" src="https://github.com/user-attachments/assets/1fb886d3-c2a9-4c53-8f47-9c53c25ea917" />
+
 <img width="1775" height="902" alt="image" src="https://github.com/user-attachments/assets/aa8a04d8-94ba-4021-906c-e6b7cf9f1b9e" />
 
